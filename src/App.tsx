@@ -101,7 +101,7 @@ export default function App() {
             <Sparkles className="w-10 h-10 text-primary/40 mx-auto mb-6" />
             <h2 className="text-4xl md:text-5xl font-serif mb-8">Una Práctica Sagrada</h2>
             <p className="text-xl text-muted-foreground leading-relaxed italic">
-              "Reiki es una práctica sagrada, digna de veneración y profundo respeto. 
+              "Reiki es una práctica de conexión que se transita desde el respeto y compromiso. 
               No sólo aumenta nuestra capacidad de autosanación, sino que nos da una brújula para una vida más plena."
             </p>
           </motion.div>
